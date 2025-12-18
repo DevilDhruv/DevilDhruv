@@ -7,7 +7,7 @@ Software Engineer
 A versatile Software Engineer with a B.Tech in Computer Science and hands-on experience across web, Android, and AI/ML development, building and deploying end-to-end solutions from idea to production. Experience includes contributing as an intern at a multinational company, collaborating with cross-functional teams, working with modern frameworks and tools, and shipping features in real-world environments. Academic and personal projects span full-stack web applications, Android apps, and machine learning models, reflecting strong problem-solving skills, curiosity, and the ability to quickly learn and adapt to new technologies. Comfortable moving across the stack—designing APIs, building responsive user interfaces, integrating services, and experimenting with data-driven models—while writing clean, maintainable code and following good engineering practices. Actively explores new domains through side projects, competitive programming, and continuous learning, aiming to grow into a well-rounded engineer capable of owning and delivering complex products end to end.
 
 * 🌍  I'm based in Bengaluru
-* 🖥️  See my portfolio at [MyPortfolio](http://myapp.com)
+* 🖥️  See my portfolio at [MyPortfolio](https://portfolio-taupe-ten-39.vercel.app)
 * ✉️  You can contact me at [dhruvrastogi652@gmail.com](mailto:dhruvrastogi652@gmail.com)
 * 🚀  I'm currently working on [MyApp](http://(s)://myapp.com)
 * 🧠  I'm currently learning Data Structures and Algorithms
